@@ -1,6 +1,6 @@
 <?php
 
-namespace VendorName\Skeleton\Tests;
+namespace Athulya\DiskManager\Tests;
 
 class ExampleTest extends TestCase
 {
