@@ -2,9 +2,9 @@
 
 namespace Athulya\DiskManager;
 
+use Athulya\DiskManager\Commands\DiskManagerCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Athulya\DiskManager\Commands\DiskManagerCommand;
 
 class DiskManagerServiceProvider extends PackageServiceProvider
 {

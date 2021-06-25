@@ -2,9 +2,9 @@
 
 namespace Athulya\DiskManager\Tests;
 
+use Athulya\DiskManager\DiskManagerServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Athulya\DiskManager\DiskManagerServiceProvider;
 
 class TestCase extends Orchestra
 {
